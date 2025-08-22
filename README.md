@@ -9,6 +9,10 @@ VoidPad is a minimal yet powerful text editor built with Python and Tkinter. Des
 - Theme support for personalized experience 🎨
 - Cross-platform (Windows, Linux, macOS) 🌍
 
+## Showcase
+![VoidPad-Theme-DarkBlue](screenshot-darkblue.png)
+![VoidPad-Theme-Dark](screenshot-dark.png)
+
 ## Installation 💻
 1. Clone the repo:  
 ```bash
