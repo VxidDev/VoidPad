@@ -39,9 +39,9 @@ Switch themes with Themes button
 ### Roadmap 🚀
 
 - DONE - v1.0.0 – Core editor with basic themes
-- In progress... - v1.1 - Theme Update
+- In progress... - v1.1 - Functionality update
 - Coming soon. - v1.2 - GUI Update
-- Coming soon. - v1.3 - ???
+- Coming soon. - v1.3 - Theme Update
 - Coming soon. - v1.4 - ???
 - Coming soon. - v1.5 - ???
 
